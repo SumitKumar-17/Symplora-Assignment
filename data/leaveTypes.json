@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Annual",
+    "description": "Annual leave",
+    "daysAllowed": 20,
+    "createdAt": "2025-09-04T03:58:51.811Z",
+    "updatedAt": "2025-09-04T03:58:51.811Z"
+  },
+  {
+    "id": 2,
+    "name": "Sick",
+    "description": "Sick leave",
+    "daysAllowed": 10,
+    "createdAt": "2025-09-04T03:58:51.811Z",
+    "updatedAt": "2025-09-04T03:58:51.811Z"
+  },
+  {
+    "id": 3,
+    "name": "Maternity",
+    "description": "Maternity leave",
+    "daysAllowed": 90,
+    "createdAt": "2025-09-04T03:58:51.811Z",
+    "updatedAt": "2025-09-04T03:58:51.811Z"
+  },
+  {
+    "id": 4,
+    "name": "Paternity",
+    "description": "Paternity leave",
+    "daysAllowed": 15,
+    "createdAt": "2025-09-04T03:58:51.811Z",
+    "updatedAt": "2025-09-04T03:58:51.811Z"
+  }
+]

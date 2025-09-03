@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "employeeId": 1,
+    "leaveTypeId": 1,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 2,
+    "employeeId": 1,
+    "leaveTypeId": 2,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 3,
+    "employeeId": 1,
+    "leaveTypeId": 3,
+    "balance": 49,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 4,
+    "employeeId": 1,
+    "leaveTypeId": 4,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 5,
+    "employeeId": 2,
+    "leaveTypeId": 1,
+    "balance": 18,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 6,
+    "employeeId": 2,
+    "leaveTypeId": 2,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 7,
+    "employeeId": 2,
+    "leaveTypeId": 3,
+    "balance": 35,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 8,
+    "employeeId": 2,
+    "leaveTypeId": 4,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 9,
+    "employeeId": 3,
+    "leaveTypeId": 1,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 10,
+    "employeeId": 3,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 11,
+    "employeeId": 3,
+    "leaveTypeId": 3,
+    "balance": 52,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 12,
+    "employeeId": 3,
+    "leaveTypeId": 4,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 13,
+    "employeeId": 4,
+    "leaveTypeId": 1,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 14,
+    "employeeId": 4,
+    "leaveTypeId": 2,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 15,
+    "employeeId": 4,
+    "leaveTypeId": 3,
+    "balance": 22,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 16,
+    "employeeId": 4,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 17,
+    "employeeId": 5,
+    "leaveTypeId": 1,
+    "balance": 20,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 18,
+    "employeeId": 5,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 19,
+    "employeeId": 5,
+    "leaveTypeId": 3,
+    "balance": 36,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 20,
+    "employeeId": 5,
+    "leaveTypeId": 4,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 21,
+    "employeeId": 6,
+    "leaveTypeId": 1,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 22,
+    "employeeId": 6,
+    "leaveTypeId": 2,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 23,
+    "employeeId": 6,
+    "leaveTypeId": 3,
+    "balance": 33,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 24,
+    "employeeId": 6,
+    "leaveTypeId": 4,
+    "balance": 1,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 25,
+    "employeeId": 7,
+    "leaveTypeId": 1,
+    "balance": 17,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 26,
+    "employeeId": 7,
+    "leaveTypeId": 2,
+    "balance": 1,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 27,
+    "employeeId": 7,
+    "leaveTypeId": 3,
+    "balance": 26,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 28,
+    "employeeId": 7,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 29,
+    "employeeId": 8,
+    "leaveTypeId": 1,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 30,
+    "employeeId": 8,
+    "leaveTypeId": 2,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 31,
+    "employeeId": 8,
+    "leaveTypeId": 3,
+    "balance": 61,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 32,
+    "employeeId": 8,
+    "leaveTypeId": 4,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 33,
+    "employeeId": 9,
+    "leaveTypeId": 1,
+    "balance": 17,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 34,
+    "employeeId": 9,
+    "leaveTypeId": 2,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 35,
+    "employeeId": 9,
+    "leaveTypeId": 3,
+    "balance": 78,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 36,
+    "employeeId": 9,
+    "leaveTypeId": 4,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 37,
+    "employeeId": 10,
+    "leaveTypeId": 1,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 38,
+    "employeeId": 10,
+    "leaveTypeId": 2,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 39,
+    "employeeId": 10,
+    "leaveTypeId": 3,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 40,
+    "employeeId": 10,
+    "leaveTypeId": 4,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 41,
+    "employeeId": 11,
+    "leaveTypeId": 1,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 42,
+    "employeeId": 11,
+    "leaveTypeId": 2,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 43,
+    "employeeId": 11,
+    "leaveTypeId": 3,
+    "balance": 33,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 44,
+    "employeeId": 11,
+    "leaveTypeId": 4,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 45,
+    "employeeId": 12,
+    "leaveTypeId": 1,
+    "balance": 11,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 46,
+    "employeeId": 12,
+    "leaveTypeId": 2,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 47,
+    "employeeId": 12,
+    "leaveTypeId": 3,
+    "balance": 88,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 48,
+    "employeeId": 12,
+    "leaveTypeId": 4,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 49,
+    "employeeId": 13,
+    "leaveTypeId": 1,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 50,
+    "employeeId": 13,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 51,
+    "employeeId": 13,
+    "leaveTypeId": 3,
+    "balance": 27,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 52,
+    "employeeId": 13,
+    "leaveTypeId": 4,
+    "balance": 14,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 53,
+    "employeeId": 14,
+    "leaveTypeId": 1,
+    "balance": 17,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 54,
+    "employeeId": 14,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 55,
+    "employeeId": 14,
+    "leaveTypeId": 3,
+    "balance": 90,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 56,
+    "employeeId": 14,
+    "leaveTypeId": 4,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 57,
+    "employeeId": 15,
+    "leaveTypeId": 1,
+    "balance": 11,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 58,
+    "employeeId": 15,
+    "leaveTypeId": 2,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 59,
+    "employeeId": 15,
+    "leaveTypeId": 3,
+    "balance": 85,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 60,
+    "employeeId": 15,
+    "leaveTypeId": 4,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 61,
+    "employeeId": 16,
+    "leaveTypeId": 1,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 62,
+    "employeeId": 16,
+    "leaveTypeId": 2,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 63,
+    "employeeId": 16,
+    "leaveTypeId": 3,
+    "balance": 75,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 64,
+    "employeeId": 16,
+    "leaveTypeId": 4,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 65,
+    "employeeId": 17,
+    "leaveTypeId": 1,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 66,
+    "employeeId": 17,
+    "leaveTypeId": 2,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 67,
+    "employeeId": 17,
+    "leaveTypeId": 3,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 68,
+    "employeeId": 17,
+    "leaveTypeId": 4,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 69,
+    "employeeId": 18,
+    "leaveTypeId": 1,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 70,
+    "employeeId": 18,
+    "leaveTypeId": 2,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 71,
+    "employeeId": 18,
+    "leaveTypeId": 3,
+    "balance": 44,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 72,
+    "employeeId": 18,
+    "leaveTypeId": 4,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 73,
+    "employeeId": 19,
+    "leaveTypeId": 1,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 74,
+    "employeeId": 19,
+    "leaveTypeId": 2,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 75,
+    "employeeId": 19,
+    "leaveTypeId": 3,
+    "balance": 68,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 76,
+    "employeeId": 19,
+    "leaveTypeId": 4,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 77,
+    "employeeId": 20,
+    "leaveTypeId": 1,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 78,
+    "employeeId": 20,
+    "leaveTypeId": 2,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 79,
+    "employeeId": 20,
+    "leaveTypeId": 3,
+    "balance": 43,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 80,
+    "employeeId": 20,
+    "leaveTypeId": 4,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 81,
+    "employeeId": 21,
+    "leaveTypeId": 1,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 82,
+    "employeeId": 21,
+    "leaveTypeId": 2,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 83,
+    "employeeId": 21,
+    "leaveTypeId": 3,
+    "balance": 71,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 84,
+    "employeeId": 21,
+    "leaveTypeId": 4,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 85,
+    "employeeId": 22,
+    "leaveTypeId": 1,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 86,
+    "employeeId": 22,
+    "leaveTypeId": 2,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 87,
+    "employeeId": 22,
+    "leaveTypeId": 3,
+    "balance": 20,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 88,
+    "employeeId": 22,
+    "leaveTypeId": 4,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 89,
+    "employeeId": 23,
+    "leaveTypeId": 1,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 90,
+    "employeeId": 23,
+    "leaveTypeId": 2,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 91,
+    "employeeId": 23,
+    "leaveTypeId": 3,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 92,
+    "employeeId": 23,
+    "leaveTypeId": 4,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 93,
+    "employeeId": 24,
+    "leaveTypeId": 1,
+    "balance": 20,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 94,
+    "employeeId": 24,
+    "leaveTypeId": 2,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 95,
+    "employeeId": 24,
+    "leaveTypeId": 3,
+    "balance": 81,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 96,
+    "employeeId": 24,
+    "leaveTypeId": 4,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 97,
+    "employeeId": 25,
+    "leaveTypeId": 1,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 98,
+    "employeeId": 25,
+    "leaveTypeId": 2,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 99,
+    "employeeId": 25,
+    "leaveTypeId": 3,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 100,
+    "employeeId": 25,
+    "leaveTypeId": 4,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 101,
+    "employeeId": 26,
+    "leaveTypeId": 1,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 102,
+    "employeeId": 26,
+    "leaveTypeId": 2,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 103,
+    "employeeId": 26,
+    "leaveTypeId": 3,
+    "balance": 80,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 104,
+    "employeeId": 26,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 105,
+    "employeeId": 27,
+    "leaveTypeId": 1,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 106,
+    "employeeId": 27,
+    "leaveTypeId": 2,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 107,
+    "employeeId": 27,
+    "leaveTypeId": 3,
+    "balance": 59,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 108,
+    "employeeId": 27,
+    "leaveTypeId": 4,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 109,
+    "employeeId": 28,
+    "leaveTypeId": 1,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 110,
+    "employeeId": 28,
+    "leaveTypeId": 2,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 111,
+    "employeeId": 28,
+    "leaveTypeId": 3,
+    "balance": 89,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 112,
+    "employeeId": 28,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 113,
+    "employeeId": 29,
+    "leaveTypeId": 1,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 114,
+    "employeeId": 29,
+    "leaveTypeId": 2,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 115,
+    "employeeId": 29,
+    "leaveTypeId": 3,
+    "balance": 54,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 116,
+    "employeeId": 29,
+    "leaveTypeId": 4,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 117,
+    "employeeId": 30,
+    "leaveTypeId": 1,
+    "balance": 16,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 118,
+    "employeeId": 30,
+    "leaveTypeId": 2,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 119,
+    "employeeId": 30,
+    "leaveTypeId": 3,
+    "balance": 68,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 120,
+    "employeeId": 30,
+    "leaveTypeId": 4,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 121,
+    "employeeId": 31,
+    "leaveTypeId": 1,
+    "balance": 19,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 122,
+    "employeeId": 31,
+    "leaveTypeId": 2,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 123,
+    "employeeId": 31,
+    "leaveTypeId": 3,
+    "balance": 31,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 124,
+    "employeeId": 31,
+    "leaveTypeId": 4,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 125,
+    "employeeId": 32,
+    "leaveTypeId": 1,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 126,
+    "employeeId": 32,
+    "leaveTypeId": 2,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 127,
+    "employeeId": 32,
+    "leaveTypeId": 3,
+    "balance": 85,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 128,
+    "employeeId": 32,
+    "leaveTypeId": 4,
+    "balance": 1,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 129,
+    "employeeId": 33,
+    "leaveTypeId": 1,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 130,
+    "employeeId": 33,
+    "leaveTypeId": 2,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 131,
+    "employeeId": 33,
+    "leaveTypeId": 3,
+    "balance": 76,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 132,
+    "employeeId": 33,
+    "leaveTypeId": 4,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 133,
+    "employeeId": 34,
+    "leaveTypeId": 1,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 134,
+    "employeeId": 34,
+    "leaveTypeId": 2,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 135,
+    "employeeId": 34,
+    "leaveTypeId": 3,
+    "balance": 29,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 136,
+    "employeeId": 34,
+    "leaveTypeId": 4,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 137,
+    "employeeId": 35,
+    "leaveTypeId": 1,
+    "balance": 19,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 138,
+    "employeeId": 35,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 139,
+    "employeeId": 35,
+    "leaveTypeId": 3,
+    "balance": 63,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 140,
+    "employeeId": 35,
+    "leaveTypeId": 4,
+    "balance": 14,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 141,
+    "employeeId": 36,
+    "leaveTypeId": 1,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 142,
+    "employeeId": 36,
+    "leaveTypeId": 2,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 143,
+    "employeeId": 36,
+    "leaveTypeId": 3,
+    "balance": 34,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 144,
+    "employeeId": 36,
+    "leaveTypeId": 4,
+    "balance": 14,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 145,
+    "employeeId": 37,
+    "leaveTypeId": 1,
+    "balance": 16,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 146,
+    "employeeId": 37,
+    "leaveTypeId": 2,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 147,
+    "employeeId": 37,
+    "leaveTypeId": 3,
+    "balance": 43,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 148,
+    "employeeId": 37,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 149,
+    "employeeId": 38,
+    "leaveTypeId": 1,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 150,
+    "employeeId": 38,
+    "leaveTypeId": 2,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 151,
+    "employeeId": 38,
+    "leaveTypeId": 3,
+    "balance": 24,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 152,
+    "employeeId": 38,
+    "leaveTypeId": 4,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 153,
+    "employeeId": 39,
+    "leaveTypeId": 1,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 154,
+    "employeeId": 39,
+    "leaveTypeId": 2,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 155,
+    "employeeId": 39,
+    "leaveTypeId": 3,
+    "balance": 13,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 156,
+    "employeeId": 39,
+    "leaveTypeId": 4,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 157,
+    "employeeId": 40,
+    "leaveTypeId": 1,
+    "balance": 19,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 158,
+    "employeeId": 40,
+    "leaveTypeId": 2,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 159,
+    "employeeId": 40,
+    "leaveTypeId": 3,
+    "balance": 61,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 160,
+    "employeeId": 40,
+    "leaveTypeId": 4,
+    "balance": 9,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 161,
+    "employeeId": 41,
+    "leaveTypeId": 1,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 162,
+    "employeeId": 41,
+    "leaveTypeId": 2,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 163,
+    "employeeId": 41,
+    "leaveTypeId": 3,
+    "balance": 17,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 164,
+    "employeeId": 41,
+    "leaveTypeId": 4,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 165,
+    "employeeId": 42,
+    "leaveTypeId": 1,
+    "balance": 8,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 166,
+    "employeeId": 42,
+    "leaveTypeId": 2,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 167,
+    "employeeId": 42,
+    "leaveTypeId": 3,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 168,
+    "employeeId": 42,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 169,
+    "employeeId": 43,
+    "leaveTypeId": 1,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.816Z",
+    "updatedAt": "2025-09-04T03:58:51.816Z"
+  },
+  {
+    "id": 170,
+    "employeeId": 43,
+    "leaveTypeId": 2,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 171,
+    "employeeId": 43,
+    "leaveTypeId": 3,
+    "balance": 87,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 172,
+    "employeeId": 43,
+    "leaveTypeId": 4,
+    "balance": 14,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 173,
+    "employeeId": 44,
+    "leaveTypeId": 1,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 174,
+    "employeeId": 44,
+    "leaveTypeId": 2,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 175,
+    "employeeId": 44,
+    "leaveTypeId": 3,
+    "balance": 36,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 176,
+    "employeeId": 44,
+    "leaveTypeId": 4,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 177,
+    "employeeId": 45,
+    "leaveTypeId": 1,
+    "balance": 14,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 178,
+    "employeeId": 45,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 179,
+    "employeeId": 45,
+    "leaveTypeId": 3,
+    "balance": 57,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 180,
+    "employeeId": 45,
+    "leaveTypeId": 4,
+    "balance": 12,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 181,
+    "employeeId": 46,
+    "leaveTypeId": 1,
+    "balance": 19,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 182,
+    "employeeId": 46,
+    "leaveTypeId": 2,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 183,
+    "employeeId": 46,
+    "leaveTypeId": 3,
+    "balance": 70,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 184,
+    "employeeId": 46,
+    "leaveTypeId": 4,
+    "balance": 7,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 185,
+    "employeeId": 47,
+    "leaveTypeId": 1,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 186,
+    "employeeId": 47,
+    "leaveTypeId": 2,
+    "balance": 6,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 187,
+    "employeeId": 47,
+    "leaveTypeId": 3,
+    "balance": 33,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 188,
+    "employeeId": 47,
+    "leaveTypeId": 4,
+    "balance": 15,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 189,
+    "employeeId": 48,
+    "leaveTypeId": 1,
+    "balance": 3,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 190,
+    "employeeId": 48,
+    "leaveTypeId": 2,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 191,
+    "employeeId": 48,
+    "leaveTypeId": 3,
+    "balance": 39,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 192,
+    "employeeId": 48,
+    "leaveTypeId": 4,
+    "balance": 4,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 193,
+    "employeeId": 49,
+    "leaveTypeId": 1,
+    "balance": 10,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 194,
+    "employeeId": 49,
+    "leaveTypeId": 2,
+    "balance": 1,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 195,
+    "employeeId": 49,
+    "leaveTypeId": 3,
+    "balance": 72,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 196,
+    "employeeId": 49,
+    "leaveTypeId": 4,
+    "balance": 5,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 197,
+    "employeeId": 50,
+    "leaveTypeId": 1,
+    "balance": 19,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 198,
+    "employeeId": 50,
+    "leaveTypeId": 2,
+    "balance": 2,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 199,
+    "employeeId": 50,
+    "leaveTypeId": 3,
+    "balance": 23,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  },
+  {
+    "id": 200,
+    "employeeId": 50,
+    "leaveTypeId": 4,
+    "balance": 0,
+    "createdAt": "2025-09-04T03:58:51.817Z",
+    "updatedAt": "2025-09-04T03:58:51.817Z"
+  }
+]

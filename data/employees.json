@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Brian Martinez",
+    "email": "brian.martinez1@company.com",
+    "department": "Information Technology",
+    "joiningDate": "2021-04-03",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 2,
+    "name": "Michael Scott",
+    "email": "michael.scott2@company.com",
+    "department": "Sales",
+    "joiningDate": "2024-04-20",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 3,
+    "name": "Mary Adams",
+    "email": "mary.adams3@company.com",
+    "department": "Human Resources",
+    "joiningDate": "2021-01-29",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 4,
+    "name": "Joshua Gonzalez",
+    "email": "joshua.gonzalez4@company.com",
+    "department": "Engineering",
+    "joiningDate": "2022-08-16",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 5,
+    "name": "Steven Rodriguez",
+    "email": "steven.rodriguez5@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2021-02-12",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 6,
+    "name": "Sharon Thomas",
+    "email": "sharon.thomas6@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2020-07-06",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 7,
+    "name": "Michelle King",
+    "email": "michelle.king7@company.com",
+    "department": "Sales",
+    "joiningDate": "2021-09-16",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 8,
+    "name": "Ruth Baker",
+    "email": "ruth.baker8@company.com",
+    "department": "Legal",
+    "joiningDate": "2023-03-24",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 9,
+    "name": "Mark Ramirez",
+    "email": "mark.ramirez9@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2021-08-19",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 10,
+    "name": "Richard Clark",
+    "email": "richard.clark10@company.com",
+    "department": "Sales",
+    "joiningDate": "2021-01-02",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 11,
+    "name": "Richard Williams",
+    "email": "richard.williams11@company.com",
+    "department": "Information Technology",
+    "joiningDate": "2024-05-02",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 12,
+    "name": "Donald Jones",
+    "email": "donald.jones12@company.com",
+    "department": "Legal",
+    "joiningDate": "2021-01-17",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 13,
+    "name": "Daniel Nguyen",
+    "email": "daniel.nguyen13@company.com",
+    "department": "Information Technology",
+    "joiningDate": "2024-12-02",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 14,
+    "name": "Steven Nguyen",
+    "email": "steven.nguyen14@company.com",
+    "department": "Finance",
+    "joiningDate": "2021-10-28",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 15,
+    "name": "Kevin Flores",
+    "email": "kevin.flores15@company.com",
+    "department": "Human Resources",
+    "joiningDate": "2020-09-14",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 16,
+    "name": "Andrew Ramirez",
+    "email": "andrew.ramirez16@company.com",
+    "department": "Human Resources",
+    "joiningDate": "2020-05-06",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 17,
+    "name": "Sarah Young",
+    "email": "sarah.young17@company.com",
+    "department": "Engineering",
+    "joiningDate": "2023-01-09",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 18,
+    "name": "Karen Carter",
+    "email": "karen.carter18@company.com",
+    "department": "Engineering",
+    "joiningDate": "2024-07-26",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 19,
+    "name": "Sarah Martinez",
+    "email": "sarah.martinez19@company.com",
+    "department": "Marketing",
+    "joiningDate": "2023-05-15",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 20,
+    "name": "Richard Green",
+    "email": "richard.green20@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2022-08-22",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 21,
+    "name": "Deborah Martinez",
+    "email": "deborah.martinez21@company.com",
+    "department": "Finance",
+    "joiningDate": "2020-11-30",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 22,
+    "name": "Ruth Adams",
+    "email": "ruth.adams22@company.com",
+    "department": "Sales",
+    "joiningDate": "2020-08-17",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 23,
+    "name": "Helen White",
+    "email": "helen.white23@company.com",
+    "department": "Engineering",
+    "joiningDate": "2023-05-06",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 24,
+    "name": "David Scott",
+    "email": "david.scott24@company.com",
+    "department": "Operations",
+    "joiningDate": "2020-03-13",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 25,
+    "name": "Carol White",
+    "email": "carol.white25@company.com",
+    "department": "Engineering",
+    "joiningDate": "2024-08-25",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 26,
+    "name": "Brian Gonzalez",
+    "email": "brian.gonzalez26@company.com",
+    "department": "Sales",
+    "joiningDate": "2024-03-08",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 27,
+    "name": "Karen Flores",
+    "email": "karen.flores27@company.com",
+    "department": "Marketing",
+    "joiningDate": "2023-03-01",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 28,
+    "name": "Nancy Thompson",
+    "email": "nancy.thompson28@company.com",
+    "department": "Human Resources",
+    "joiningDate": "2021-09-15",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 29,
+    "name": "Robert Green",
+    "email": "robert.green29@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2024-08-13",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 30,
+    "name": "Michael Hall",
+    "email": "michael.hall30@company.com",
+    "department": "Human Resources",
+    "joiningDate": "2024-02-13",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 31,
+    "name": "Helen Miller",
+    "email": "helen.miller31@company.com",
+    "department": "Sales",
+    "joiningDate": "2021-06-23",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 32,
+    "name": "Michelle Hall",
+    "email": "michelle.hall32@company.com",
+    "department": "Engineering",
+    "joiningDate": "2024-05-24",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 33,
+    "name": "Joshua Adams",
+    "email": "joshua.adams33@company.com",
+    "department": "Engineering",
+    "joiningDate": "2022-11-17",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 34,
+    "name": "Deborah Garcia",
+    "email": "deborah.garcia34@company.com",
+    "department": "Legal",
+    "joiningDate": "2020-07-24",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 35,
+    "name": "Deborah Nguyen",
+    "email": "deborah.nguyen35@company.com",
+    "department": "Finance",
+    "joiningDate": "2023-09-16",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 36,
+    "name": "Robert Sanchez",
+    "email": "robert.sanchez36@company.com",
+    "department": "Finance",
+    "joiningDate": "2022-05-27",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 37,
+    "name": "Deborah Torres",
+    "email": "deborah.torres37@company.com",
+    "department": "Information Technology",
+    "joiningDate": "2021-06-03",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 38,
+    "name": "Lisa Clark",
+    "email": "lisa.clark38@company.com",
+    "department": "Operations",
+    "joiningDate": "2024-01-02",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 39,
+    "name": "Patricia Roberts",
+    "email": "patricia.roberts39@company.com",
+    "department": "Finance",
+    "joiningDate": "2022-04-16",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 40,
+    "name": "Jessica Hernandez",
+    "email": "jessica.hernandez40@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2022-12-11",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 41,
+    "name": "Timothy Wilson",
+    "email": "timothy.wilson41@company.com",
+    "department": "Sales",
+    "joiningDate": "2021-01-01",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 42,
+    "name": "Andrew Davis",
+    "email": "andrew.davis42@company.com",
+    "department": "Information Technology",
+    "joiningDate": "2020-06-17",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 43,
+    "name": "Carol Rodriguez",
+    "email": "carol.rodriguez43@company.com",
+    "department": "Marketing",
+    "joiningDate": "2022-11-29",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 44,
+    "name": "Daniel Smith",
+    "email": "daniel.smith44@company.com",
+    "department": "Finance",
+    "joiningDate": "2024-11-24",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 45,
+    "name": "Jennifer Walker",
+    "email": "jennifer.walker45@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2024-07-29",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 46,
+    "name": "Kevin Sanchez",
+    "email": "kevin.sanchez46@company.com",
+    "department": "Engineering",
+    "joiningDate": "2021-09-23",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 47,
+    "name": "Sarah Harris",
+    "email": "sarah.harris47@company.com",
+    "department": "Sales",
+    "joiningDate": "2022-02-11",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 48,
+    "name": "Michael Smith",
+    "email": "michael.smith48@company.com",
+    "department": "Research and Development",
+    "joiningDate": "2022-11-30",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 49,
+    "name": "Deborah Thompson",
+    "email": "deborah.thompson49@company.com",
+    "department": "Information Technology",
+    "joiningDate": "2021-09-15",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  },
+  {
+    "id": 50,
+    "name": "Kimberly Jones",
+    "email": "kimberly.jones50@company.com",
+    "department": "Operations",
+    "joiningDate": "2022-09-17",
+    "createdAt": "2025-09-04T03:58:51.812Z",
+    "updatedAt": "2025-09-04T03:58:51.812Z"
+  }
+]
